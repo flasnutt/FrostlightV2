@@ -43,7 +43,7 @@ The CSS also stops all animation if your system has "reduce motion" enabled.
 ## Troubleshooting
 
 - Theme not applied: run `spicetify backup apply` again (Spotify updates remove it).
-- Banner or snow caps missing after a Spotify update: [open an issue](https://github.com/flasnutt/Frostlight/issues) with a screenshot.
+- Banner or snow caps missing after a Spotify update: [open an issue](https://github.com/flasnutt/FrostlightV2/issues) with a screenshot.
 
 ## Notes
 
